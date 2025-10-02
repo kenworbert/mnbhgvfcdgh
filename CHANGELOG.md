@@ -5,3 +5,5 @@ Fix issue in Y [BafLiN] line 4.1
 Update documentation [f1a79W] line 5.1
 Add test case for W [GYO0Cl] line 6.1
 Add test case for W [GYO0Cl] line 6.3
+Update documentation [JyttC3] line 9.1
+Update documentation [JyttC3] line 9.2
